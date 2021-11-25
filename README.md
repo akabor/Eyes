@@ -11,3 +11,7 @@ Download all files to the same location on your machine. Drag the eyes.html file
 ## Roadmap
 
 Future updates to this project will include randomized background colors with clicking.
+
+## License Information
+
+Please read all information located in the LICENSE file in this repository.
