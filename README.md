@@ -1,4 +1,4 @@
-# <a href="https://github.com/akabor/Eyes">Eyes</a>
+# <a href="https://akabor.github.io/Eyes/">Eyes</a>
 
 ## Project Description
 
