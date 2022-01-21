@@ -6,7 +6,7 @@ This project was originally started in week 8 of my MIT Professional Certificate
 
 ## Installation
 
-Download all files to the same location on your machine. Drag the eyes.html file on to your browser.
+Download all files to the same location on your machine. Drag the index.html file on to your browser.
 
 ## Roadmap
 
